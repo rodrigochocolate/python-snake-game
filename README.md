@@ -1,1 +1,1 @@
-Jogo da cobrinha feito em Python :)
+Meu primeiro jogo feito em Python XD
